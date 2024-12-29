@@ -183,10 +183,10 @@ packages:
     dependency: "direct main"
     description:
       name: ollama_dart
-      sha256: "0af52c17a6dda9f6a30d79b9529bf38128d9b01dabd9d5f625040a32035eec24"
+      sha256: "4e40bc499b6fe46ba54a004d2da601c40bd73d66e3f18cf7b03225ccf3d481a6"
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.3+1"
+    version: "0.2.2+1"
   path:
     dependency: transitive
     description:
